@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+obj
+/src/EnetClient/Library/metadata
+/src/EnetClient/Library/PackageCache
+/src/EnetClient/Library/ShaderCache
+/src/Hollywood.Networking.Server/Hollywood.Networking.Client.Console/bin
+/src/Hollywood.Networking.Server/Hollywood.Networking.Server.Console/bin
